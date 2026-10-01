@@ -1,0 +1,10 @@
+venv/
+package/
+deployment.zip
+__pycache__/
+*.pyc
+.env
+*.csv
+output/
+latest/
+gtfs_data/
