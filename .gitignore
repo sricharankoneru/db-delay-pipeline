@@ -8,3 +8,5 @@ __pycache__/
 output/
 latest/
 gtfs_data/
+*.zip
+gtfs_data_old/
